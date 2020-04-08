@@ -1,0 +1,14 @@
+{
+  "domain": "came",
+  "name": "Came Eti Domo",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/came",
+  "requirements": ["eti-domo"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@andrea-michielan"
+  ]
+}
